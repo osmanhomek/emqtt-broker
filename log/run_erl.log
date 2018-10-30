@@ -1,0 +1,8 @@
+run_erl [1844] Sat Jul 14 22:37:00 2018
+Args before exec of shell:
+run_erl [1844] Sat Jul 14 22:37:00 2018
+argv[0] = sh
+run_erl [1844] Sat Jul 14 22:37:00 2018
+argv[1] = -c
+run_erl [1844] Sat Jul 14 22:37:00 2018
+argv[2] = exec "/opt/emqttd/bin/emqttd" "console"
